@@ -1,1 +1,1 @@
-# classes
+# classes [![Build status](https://ci.appveyor.com/api/projects/status/kh6s59b88esk81uu/branch/main?svg=true)](https://ci.appveyor.com/project/barsich/classes/branch/main)
